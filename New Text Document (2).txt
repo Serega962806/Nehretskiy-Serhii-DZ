@@ -1,0 +1,3 @@
+echo "файл группы" > QA_21.02.2025.txt
+git add QA_10.txt
+git commit -m "1"
